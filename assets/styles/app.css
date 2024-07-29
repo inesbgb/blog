@@ -1,0 +1,13 @@
+body {
+    background-color: skyblue;
+}
+
+.navLink{
+    text-decoration: none;
+    color: white;
+}
+
+.imgPost{
+    width: 250px;
+    height: 180px ;
+}
